@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! Soy una desarrolladora en proceso ✨
 
-<!--
-**Katerine3-18/Katerine3-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://shields.io" alt="Estilo">
+  <img src="https://shields.io" alt="JS">
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://giphy.com" width="150" alt="Moño Rosa">
+</p>
+
+---
+
+### 🌸 Sobre Mí
+- 👩‍💻 Estudiante de Ingeniería en Sistemas apasionada por el desarrollo web.
+- 🎀 Actualmente creando proyectos con **Node.js, MySQL, HTML y CSS**.
+- ✨ Me encanta cuidar los detalles visuales y la lógica del código.
+
+### 🛠️ Mis Herramientas (Stack Tecnológico)
+
+<p align="left">
+  <img src="https://shields.io" alt="HTML">
+  <img src="https://shields.io" alt="CSS">
+  <img src="https://shields.io" alt="JS">
+  <img src="https://shields.io" alt="Node">
+  <img src="https://shields.io" alt="MySQL">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com+🎀" alt="Contador de visitas" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com+🎀" alt="Contador de visitas" />
+</p>
+
